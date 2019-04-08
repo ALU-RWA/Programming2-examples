@@ -14,7 +14,7 @@ public class PrivacyDemo {
 
 //        Now we have some examples of calling a static method, note the pattern:
 //        Class.methodName()
-        StudentRecord.institution();
+//        StudentRecord.institution();
 //        The same patter works for static fields: Class.fieldName
         System.out.println(StudentRecord.count);
     }
